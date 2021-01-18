@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple Devops Project !! </h1>
-<h2> Deploying on a VM </h2>
+<h2> Deploying on a VM for testing </h2>
