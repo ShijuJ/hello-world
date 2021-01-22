@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a container using ansible play book on docker host </h2>
+<h2> Deploying on a container using ansible play book from ansible server</h2>
